@@ -1,0 +1,13 @@
+fastapi==0.115.2
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+
+# GenAI/LLM
+langchain==0.2.16
+langchain-openai==0.1.23
+
+
+
+langgraph
+pydantic-ai
+griffe>=0.48,<0.50
